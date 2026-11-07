@@ -22,7 +22,7 @@ The dashboard helps understand sales performance through different visualization
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](SALES_PERFORMANCE.png)
+![Sales Performance Dashboard](./SALES_PERFORMANCE.png)
 
 ## 📂 Project Files
 
