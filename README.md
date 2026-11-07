@@ -1,11 +1,13 @@
 # Sales Performance Analysis Dashboard
 
 ## 📌 Project Overview
+
 This project focuses on analyzing sales data and creating a visual dashboard using Python, Pandas, and Matplotlib.
 
 The dashboard helps understand sales performance through different visualizations.
 
 ## 🛠️ Technologies Used
+
 - Python
 - Pandas
 - Matplotlib
@@ -26,7 +28,7 @@ The dashboard helps understand sales performance through different visualization
 
 - `sales_dashboard.py` – Python source code.
 - `Matplotlib_Final_Project.xlsx` – Sales dataset.
-- `SALES_PERFORMANCE.PNG` – Final dashboard image.
+- `SALES_PERFORMANCE.png` – Final dashboard image.
 
 ## 💡 Key Skills Learned
 
@@ -38,7 +40,7 @@ The dashboard helps understand sales performance through different visualization
 
 ## 🚀 Project Outcome
 
-Successfully developed a 2×2 sales performance dashboard to visualize and analyze revenue, regional performance, product profitability, and sales channel contributions.
+Successfully developed a 2×2 Sales Performance Dashboard to visualize and analyze monthly revenue, regional performance, product profitability, and sales channel contributions.
 
 ---
 
