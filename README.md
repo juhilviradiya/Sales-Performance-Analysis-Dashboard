@@ -26,7 +26,7 @@ The dashboard helps understand sales performance through different visualization
 
 - `sales_dashboard.py` – Python source code.
 - `Matplotlib_Final_Project.xlsx` – Sales dataset.
-- `Sales_Performance_Dashboard.png` – Final dashboard image.
+- `SALES_PERFORMANCE.PNG` – Final dashboard image.
 
 ## 💡 Key Skills Learned
 
